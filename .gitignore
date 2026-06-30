@@ -1,0 +1,20 @@
+# Generated at runtime
+data/
+models/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+.venv/
+*.pkl
+*.html
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
