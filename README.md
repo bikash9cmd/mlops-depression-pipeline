@@ -1,4 +1,4 @@
-# MLOps Depression Prediction Pipeline
+# MLOps Bike Prediction Pipeline
 ### BCU CMP5366 – Data Management and Machine Learning Operations
 **Bikash Kushwaha | bikash9cmd | Kathmandu, Nepal**
 
